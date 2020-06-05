@@ -1,4 +1,4 @@
-package hyperskillcodechallenge;
+package Arrays;
 
 import java.util.Scanner;
 
